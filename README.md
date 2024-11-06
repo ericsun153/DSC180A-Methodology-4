@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
 
-Eric Sun
+Sunan Xu
